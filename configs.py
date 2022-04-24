@@ -30,20 +30,20 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @GPL_Kavin
+🧑🏻‍💻 **Developer:** @Gishankrishka1
 
-👥 **Support Group:** [GPL](https://t.me/gpl_kavinbot)
+👥 **Support Group:** [GPL](https://t.me/albotofficial)
 
-📢 **Updates Channel:** [Ithunamacinema](https://t.me/ithunamacinema)
+📢 **Updates Channel:** [Ithunamacinema](https://t.me/Gishankrishka1_cloud)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @GPL_Kavin
+🧑🏻‍💻 **Developer:** @Gishankrishka1
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://t.me/GPL_Kavin) (GPay)
+[Donate Now](https://t.me/GishanKrishka_Pm_Bot)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
